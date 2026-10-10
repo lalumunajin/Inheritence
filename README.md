@@ -23,7 +23,6 @@ Inheritance-Java/
 └── README.md
 ```
 
-*Catatan: Sesuaikan struktur di atas dengan nama file yang benar-benar terdapat di repository.*
 
 ## 💻 Penjelasan Kelas
 
