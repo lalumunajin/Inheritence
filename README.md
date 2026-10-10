@@ -94,24 +94,7 @@ Ganti `Main` dengan nama kelas yang benar-benar memiliki method `main()` pada pr
 
 ## 📸 Screenshot Output Program
 
-Bagian ini digunakan untuk menampilkan dokumentasi hasil eksekusi program.
-
-### Hasil Eksekusi
-
-Tambahkan screenshot hasil program pada bagian berikut.
-
-```text
-docs/
-└── output-inheritance.png
-```
-
-Setelah gambar dimasukkan ke folder `docs`, tampilkan menggunakan Markdown berikut:
-
-```markdown
 ![Output Program Inheritance](docs/output-inheritance.png)
-```
-
-Pastikan screenshot menunjukkan hasil eksekusi program yang sebenarnya.
 
 ## 🎯 Kesimpulan
 
