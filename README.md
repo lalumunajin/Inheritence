@@ -94,7 +94,7 @@ Ganti `Main` dengan nama kelas yang benar-benar memiliki method `main()` pada pr
 
 ## 📸 Screenshot Output Program
 
-![Output Program Inheritance](docs/output-inheritance.png)
+![Output Program Inheritance](output-inheritance.png)
 
 ## 🎯 Kesimpulan
 
